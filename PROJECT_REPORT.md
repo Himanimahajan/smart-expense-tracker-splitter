@@ -230,22 +230,8 @@ The application is production-ready for personal and small-group expense managem
 
 ## 8. Link to the Project
 
-**Repository**: [GitHub - Smart Expense Tracker](https://github.com/yourusername/expensetracksplitapp_dart)
+**Repository**: [GitHub - Smart Expense Tracker](https://github.com/Himanimahajan2005/expensetracksplitapp_dart)
 
-**Platform Support**:
-- Android: Play Store (Coming Soon)
-- iOS: App Store (Coming Soon)
-- Web: [Live Demo](https://expensetrackerone.web.app)
-- Windows/Linux/macOS: Direct download
-
-**Contact & Support**:
-- Email: support@expensetracker.app
-- GitHub Issues: Report bugs and feature requests
-- Documentation: Full API and user documentation available
-
----
-
-## 9. Appendices
 
 ### A. Database Schema
 
@@ -369,7 +355,4 @@ dev_dependencies:
 
 ---
 
-**Report Generated**: April 16, 2026
-**Project Version**: 1.0.0
-**Status**: Under Development
 
